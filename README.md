@@ -69,18 +69,6 @@ These are potential business benefits, not measured outcomes.
 | VS Code | Development environment |
 | Git and GitHub | Version control and project hosting |
 
-# Dataset
-
-**Dataset:** IBM Telco Customer Churn
-
-**Source:** https://www.kaggle.com/datasets/blastchar/telco-customer-churn
-
-The dataset contains telecom customer information, including contract type, tenure, monthly charges, total charges, internet services, payment methods, and churn status.
-
-The target variable is `Churn`, which indicates whether a customer has left the service.
-
-Download the dataset from the source above and place the CSV file in the project folder. Update the filename in the Python script if necessary.
-
 # Project Architecture and Workflow
 
 The project follows this Machine Learning pipeline:
