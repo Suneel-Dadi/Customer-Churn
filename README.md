@@ -249,7 +249,7 @@ Mark items as completed only after implementation and testing.
 
 
 
-**GitHub Repository:** https://github.com/Suneel-Dadi/Telco-Customer-Churn-Prediction
+**GitHub Repository:** https://github.com/Suneel-Dadi/Customer-Churn
 
 # Project Idea and Real-World Relevance
 
