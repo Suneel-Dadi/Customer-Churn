@@ -177,52 +177,6 @@ Recommended screenshots:
 4. Confusion matrix.
 5. Neural Network training and loss visualization.
 
-Example Markdown for adding a screenshot:
-
-```markdown
-![Model Comparison](images/model-comparison.png)
-```
-
-Create an `images` folder in the repository and upload your actual screenshots there.
-
-# Installation and Setup
-
-## Prerequisites
-
-- Python installed on your system.
-- Visual Studio Code or another Python IDE.
-- Git installed for GitHub uploads.
-
-## Clone the Repository
-
-```bash
-git clone https://github.com/Suneel-Dadi/Telco-Customer-Churn-Prediction.git
-cd Telco-Customer-Churn-Prediction
-```
-
-## Create a Virtual Environment
-
-Windows:
-
-```powershell
-py -m venv venv
-.\venv\Scripts\Activate.ps1
-```
-
-## Install Dependencies
-
-```bash
-python -m pip install --upgrade pip
-pip install -r requirements.txt
-```
-
-## Run the Project
-
-Ensure the dataset is in the project folder and its filename matches the name used in the Python script.
-
-```bash
-python telco_customer_churn.py
-```
 
 # Project Structure
 
@@ -254,6 +208,16 @@ Telco-Customer-Churn-Prediction/
 - [ ] Add a reproducible evaluation report with actual results.
 
 Mark items as completed only after implementation and testing.
+
+# Screen Shot
+<img width="422" height="117" alt="image" src="https://github.com/user-attachments/assets/b790a692-9876-4509-8cba-86baacadf24c" />
+
+<img width="861" height="212" alt="image" src="https://github.com/user-attachments/assets/99ec1ff3-1e58-4210-a005-179bdd65ecc8" />
+
+<img width="542" height="370" alt="image" src="https://github.com/user-attachments/assets/4c9bd597-6e82-445e-ace8-441bcbc8ef83" />
+
+<img width="518" height="599" alt="image" src="https://github.com/user-attachments/assets/af07a61a-d287-4dd7-9782-7ce2b50950d8" />
+
 
 # Limitations
 
